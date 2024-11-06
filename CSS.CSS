@@ -12,3 +12,74 @@ body{
     font-size: 25px;
     
 }
+ .head {
+        width: 100%;
+        height: auto;
+        background-color: black;
+      }
+      #img {
+        border-radius: 100%;
+        margin: auto;
+        display: block;
+        height: 150px;
+      }
+      #h11 {
+        color: whitesmoke;
+      }
+      .skills {
+        padding-left: 50px;
+        padding-top: 30px;
+        width: 50%;
+      }
+      #mm1,
+      #mm2,
+      #mm3 {
+        font-size: 35px;
+      }
+      #mm1::-webkit-meter-bar {
+        background-color: whitesmoke;
+      }
+      #mm1::-webkit-meter-optimum-value {
+        background-color: black;
+      }
+      #mm2::-webkit-meter-bar {
+        background-color: whitesmoke;
+      }
+      #mm2::-webkit-meter-optimum-value {
+        background-color: gray;
+      }
+      #mm3::-webkit-meter-bar {
+        background-color: whitesmoke;
+      }
+      #mm3::-webkit-meter-optimum-value {
+        background-color: darkgrey;
+      }
+      .contacts {
+        padding-left: 50px;
+        padding-top: 30px;
+        width: 50%;
+      }
+      .con {
+        list-style-type: none;
+      }
+      i {
+        font-size: 35px;
+        color: darkgray;
+      }
+      p {
+        font-size: 25px;
+        color: black;
+      }
+      .online {
+        padding-left: 50px;
+        padding-top: 30px;
+        width: 50%;
+      }
+      .right {
+        float: right;
+        padding: 20px;
+      }
+      .nnn {
+        float: right;
+        padding-left: 250px;
+      }
